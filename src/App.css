@@ -1,0 +1,69 @@
+@import '~antd/dist/antd.css';
+
+.Page, .header {
+  margin-left: 150px;
+  margin-right: 150px;
+
+}
+
+.header {
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+body {
+  /* background-image: url("vector.jpg") !important;
+  background-repeat: repeat !important; */
+}
+
+.header h1 {
+  font-size: 48px;
+  color: white !important;
+}
+
+.header-container {
+  background-color: rgba(0, 21, 42, 1) !important;
+}
+
+.header {
+  margin-bottom: 50px;
+}
+
+.menu-adjust {
+  margin-top: 16px;
+  margin-bottom: 10px;
+}
+
+.menu-item {
+  margin-right: 5px;
+  color: 	#f9f9f9 !important;
+}
+
+.image-upload-preview {
+  height: 300px !important;
+  width: 300px !important;
+}
+
+.edit-input {
+  width: 75px !important;
+}
+
+.release-card {
+  margin-bottom: 25px;
+}
+
+.user-info-adjust {
+  margin-top: 29px;
+}
+
+.subcontainer {
+  margin-bottom: 25px;
+}
+
+.page-item {
+  margin-bottom: 50px;
+}
+
+.diagram {
+  height: 750px;
+}
